@@ -1,0 +1,52 @@
+body {
+    flex: 1;
+    flex-direction: column;
+}
+
+.header {
+    flex: 1;
+    justify-content: space-around;
+}
+
+.links {
+    flex: auto;
+    justify-content: space-between;
+}
+
+.main{
+    flex: 1;
+}
+
+.line {
+    flex-direction: column;
+
+}
+
+.info {
+    flex: 1;
+    justify-content: space-between;
+}
+
+.card {
+    flex: 1;
+    flex-direction: column;
+}
+
+.quote {
+    flex: 1;
+    flex-direction: column;
+}
+
+.sign {
+    flex: 1;
+}
+
+.call {
+    flex: 1;
+    flex-direction:column;
+}
+
+.footer {
+    flex: 1;
+    justify-content: center;
+}
