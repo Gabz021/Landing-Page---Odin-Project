@@ -3,17 +3,19 @@ body {
     flex-direction: column;
 }
 
-.header {
+.header-container {
+    background-color: #1f2937;
     flex: 1;
     justify-content: space-around;
 }
 
 .links {
-    flex: auto;
+    flex: 1;
     justify-content: space-between;
 }
 
 .main{
+    background-color: #1f2937;
     flex: 1;
 }
 
